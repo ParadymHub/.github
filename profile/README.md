@@ -13,7 +13,7 @@ Paradym is a community backed by talented developers, modellers, designers and m
 ![GitHub issues](https://img.shields.io/github/issues/paradymhub/bugs?logo=openbugbounty&logoColor=fff&label=Issues)
 
 
-Our team works in Github primarily, so if you find a bug, please report it to us via our [bug tracker](link-to-bug-tracker). Feature requests will open once we have a stable release.
+Our team works in Github primarily, so if you find a bug, please report it to us via our [bug tracker](https://github.com/orgs/ParadymHub/projects/1). Feature requests will open once we have a stable release.
 
 - [**Report a Bug**](https://github.com/ParadymHub/bugs/issues/new/choose): Report a bug for one of our projects.
 - [**Bug Tracker**](https://github.com/orgs/ParadymHub/projects/1): View our bug tracker for updates.
