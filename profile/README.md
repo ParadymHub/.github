@@ -15,7 +15,7 @@ Paradym is a community backed by talented developers, modellers, designers and m
 
 Our team works in Github primarily, so if you find a bug, please report it to us via our [bug tracker](https://github.com/orgs/ParadymHub/projects/1). Feature requests will open once we have a stable release.
 
-- [**Report a Bug**](https://github.com/ParadymHub/bugs/issues/new/choose): Report a bug for one of our projects.
+- [**Report a Bug**](https://github.com/ParadymHub/bugs/issues/new?assignees=&labels=&projects=&template=bug_report.md&title=%5BBUG%5D): Report a bug for one of our projects.
 - [**Bug Tracker**](https://github.com/orgs/ParadymHub/projects/1): View our bug tracker for updates.
 
 
