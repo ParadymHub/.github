@@ -6,20 +6,6 @@ Welcome to the official GitHub organization for Paradym!
 
 Paradym is a community backed by talented developers, modellers, designers and more. We are dedicated to delivering the best experience possible to our users.
 
-
-
-## Bugs
-
-![GitHub issues](https://img.shields.io/github/issues/paradymhub/bugs?logo=openbugbounty&logoColor=fff&label=Issues)
-
-
-Our team works in Github primarily, so if you find a bug, please report it to us via our [bug tracker](https://github.com/orgs/ParadymHub/projects/1). Feature requests will open once we have a stable release.
-
-- [**Report a Bug**](https://github.com/ParadymHub/bugs/issues/new?assignees=&labels=&projects=&template=bug_report.md&title=%5BBUG%5D): Report a bug for one of our projects.
-- [**Bug Tracker**](https://github.com/orgs/ParadymHub/projects/1): View our bug tracker for updates.
-
-
-
 ## Get Involved
 
 We are always looking for talented and creative people to join our team!
